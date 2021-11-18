@@ -1,0 +1,13 @@
+{
+    "templates": [
+        "traditional-md",
+        "traditional-pdf",
+        "traditional-json",
+        "traditional-xml",
+        "traditional-html",
+        "modern",
+        "high-level-report",
+        "risk-confidence-html",
+        "traditional-html-plus"
+    ]
+}

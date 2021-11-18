@@ -24,5 +24,10 @@
       <version>7.1.0</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>org.zaproxy</groupId>
+      <artifactId>zap-clientapi</artifactId>
+      <version>1.10.0</version>
+    </dependency>
   </dependencies>
 </project>
